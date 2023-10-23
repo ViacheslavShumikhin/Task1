@@ -6,3 +6,10 @@ C:\Users\Дом\Desktop\Учеба\C#\Программы\TaskS2-S3\TastS2.8\obj\
 C:\Users\Дом\Desktop\Учеба\C#\Программы\TaskS2-S3\TastS2.8\obj\Debug\TastS2.8.csproj.CoreCompileInputs.cache
 C:\Users\Дом\Desktop\Учеба\C#\Программы\TaskS2-S3\TastS2.8\obj\Debug\TastS2.8.exe
 C:\Users\Дом\Desktop\Учеба\C#\Программы\TaskS2-S3\TastS2.8\obj\Debug\TastS2.8.pdb
+C:\Users\Home\Desktop\Task1\TastS2.8\bin\Debug\TastS2.8.exe.config
+C:\Users\Home\Desktop\Task1\TastS2.8\bin\Debug\TastS2.8.exe
+C:\Users\Home\Desktop\Task1\TastS2.8\bin\Debug\TastS2.8.pdb
+C:\Users\Home\Desktop\Task1\TastS2.8\obj\Debug\TastS2.8.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Task1\TastS2.8\obj\Debug\TastS2.8.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Task1\TastS2.8\obj\Debug\TastS2.8.exe
+C:\Users\Home\Desktop\Task1\TastS2.8\obj\Debug\TastS2.8.pdb

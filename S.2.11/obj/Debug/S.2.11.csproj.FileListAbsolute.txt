@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\Task1\S.2.11\bin\Debug\S.2.11.exe.config
+C:\Users\Home\Desktop\Task1\S.2.11\bin\Debug\S.2.11.exe
+C:\Users\Home\Desktop\Task1\S.2.11\bin\Debug\S.2.11.pdb
+C:\Users\Home\Desktop\Task1\S.2.11\obj\Debug\S.2.11.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Task1\S.2.11\obj\Debug\S.2.11.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Task1\S.2.11\obj\Debug\S.2.11.exe
+C:\Users\Home\Desktop\Task1\S.2.11\obj\Debug\S.2.11.pdb
